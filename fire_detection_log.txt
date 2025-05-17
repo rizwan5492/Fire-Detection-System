@@ -1,0 +1,51 @@
+[2025-05-18 02:58:22] Fire detected
+[2025-05-18 02:58:32] Fire no longer detected
+[2025-05-18 02:58:32] Fire detected
+[2025-05-18 02:58:45] Fire no longer detected
+[2025-05-18 02:58:45] Fire detected
+[2025-05-18 02:59:35] Fire detected
+[2025-05-18 02:59:39] Fire no longer detected
+[2025-05-18 02:59:39] Fire detected
+[2025-05-18 02:59:41] Fire no longer detected
+[2025-05-18 02:59:48] Fire detected
+[2025-05-18 02:59:50] Fire no longer detected
+[2025-05-18 02:59:52] Fire detected
+[2025-05-18 02:59:54] Fire no longer detected
+[2025-05-18 02:59:57] Fire detected
+[2025-05-18 02:59:59] Fire no longer detected
+[2025-05-18 03:00:00] Fire detected
+[2025-05-18 03:00:10] Fire no longer detected
+[2025-05-18 03:00:13] Fire detected
+[2025-05-18 03:00:15] Fire no longer detected
+[2025-05-18 03:00:21] Fire detected
+[2025-05-18 03:00:23] Fire no longer detected
+[2025-05-18 03:00:23] Fire detected
+[2025-05-18 03:00:25] Fire no longer detected
+[2025-05-18 03:00:25] Fire detected
+[2025-05-18 03:00:27] Fire no longer detected
+[2025-05-18 03:00:27] Fire detected
+[2025-05-18 03:00:29] Fire no longer detected
+[2025-05-18 03:00:30] Fire detected
+[2025-05-18 03:04:25] Fire detected
+[2025-05-18 03:04:30] Fire no longer detected
+[2025-05-18 03:04:31] Fire detected
+[2025-05-18 03:04:36] Fire no longer detected
+[2025-05-18 03:04:36] Fire detected
+[2025-05-18 03:04:41] Fire no longer detected
+[2025-05-18 03:04:41] Fire detected
+[2025-05-18 03:04:46] Fire no longer detected
+[2025-05-18 03:04:46] Fire detected
+[2025-05-18 03:04:51] Fire no longer detected
+[2025-05-18 03:04:52] Fire detected
+[2025-05-18 03:04:57] Fire no longer detected
+[2025-05-18 03:04:58] Fire detected
+[2025-05-18 03:05:03] Fire no longer detected
+[2025-05-18 03:05:04] Fire detected
+[2025-05-18 03:05:09] Fire no longer detected
+[2025-05-18 03:05:09] Fire detected
+[2025-05-18 03:05:15] Fire no longer detected
+[2025-05-18 03:05:16] Fire detected
+[2025-05-18 03:05:21] Fire no longer detected
+[2025-05-18 03:05:22] Fire detected
+[2025-05-18 03:05:28] Fire no longer detected
+[2025-05-18 03:05:28] Fire detected
